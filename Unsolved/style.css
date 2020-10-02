@@ -1,0 +1,42 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  font-weight: 100;
+  line-height: 20px;
+}
+
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 100;
+  line-height: 10px;
+}
+
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  line-height: 30px;
+}
+
+.p1 {
+  font-style: italic;
+  font-size: 12px;
+  font-family: fantasy;
+  font-weight: 100;
+  line-height: 14px;
+}
+
+.p2 {
+  font-size: 17px;
+  font-family: serif;
+  font-weight: 100;
+  line-height: 20px;
+}
+
+.p3 {
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 100;
+  line-height: 40px;
+}
